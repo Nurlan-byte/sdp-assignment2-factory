@@ -1,0 +1,8 @@
+package kz.aitu.sdp.ui;
+
+public interface GUIFactory {
+
+    Button createButton();
+
+    Checkbox createCheckbox();
+}
