@@ -12,7 +12,7 @@ import kz.aitu.sdp.ui.windows.WindowsFactory;
 public class Main {
 
     private static final String CARGO = "laboratory equipment";
-    private static final String DESTINATION = "Aktau warehouse";
+    private static final String DESTINATION = "Tokyo warehouse";
 
     public static void main(String[] args) {
         String deliveryMode;
